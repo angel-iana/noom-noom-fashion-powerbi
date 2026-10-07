@@ -1,0 +1,13 @@
+# Power BI temporary and local files
+~$*
+*.tmp
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Course files kept local until publishing is allowed
+docs/data/private/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
