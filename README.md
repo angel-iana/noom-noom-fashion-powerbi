@@ -15,7 +15,7 @@ lesson builds on the file from the previous one.
 | 2 | Advanced preparation | Unpivot, split columns, merges on two keys, calculated columns | [Lesson 2](docs/lesson-02-advanced-preparation/README.md) |
 | 3 | Data modeling | Relationships, column formats, calculated columns and DAX measures | [Lesson 3](docs/lesson-03-data-modeling/README.md) |
 | 4 | Data visualization | Report pages, hierarchies, drill down, interactions between visuals | [Lesson 4](docs/lesson-04-data-visualization/README.md) |
-| 5 | Filtering and design | Slicers, sync slicers, filters pane, Top N | _In progress_ |
+| 5 | Slicers and filters | Slicers, sync slicers, filters pane, Top N | [Lesson 5](docs/lesson-05-filtering-and-design/README.md) |
 
 ## Key results
 
@@ -25,6 +25,7 @@ lesson builds on the file from the previous one.
 - Jacket is the most profitable product type; South Australia is the
   most profitable state; retail and wholesale bring about half of the
   profit each.
+- March, January and July are the most profitable months.
 
 ## Repository structure
 
@@ -36,7 +37,7 @@ noom-noom-fashion-powerbi/
 │   ├── lesson-02-advanced-preparation/  README.md, lesson-02.pbix
 │   ├── lesson-03-data-modeling/         README.md, lesson-03.pbix
 │   ├── lesson-04-data-visualization/    README.md, lesson-04.pbix
-│   └── lesson-05-filtering-and-design/  (in progress)
+│   └── lesson-05-filtering-and-design/  README.md, lesson-05.pbix
 └── images/
     ├── lesson-01/  …  lesson-05/        screenshots used in each README
 ```
